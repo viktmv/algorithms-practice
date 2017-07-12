@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "practice tasks from Cracking the Coding interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktmv/algorithms-practice-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktmv/algorithms-practice-/issues"
+  },
+  "homepage": "https://github.com/viktmv/algorithms-practice-#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
