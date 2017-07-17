@@ -18,4 +18,4 @@ function compress(str) {
   return compressed.length >= str.length ? str : compressed
 }
 
-console.log(compress('aabcccccaaa'))
+module.exports = compress
